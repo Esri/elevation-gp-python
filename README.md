@@ -5,14 +5,15 @@ ArcGIS elevation analysis tool that allows you to setting up an in-house viewshe
 
 ## Instructions
 1. Fork and then clone the repo. 
-2. Run and try the samples.
+2. Unzip the data.zip file to the same folder (under Elevation).
+3. Follow the instructions in the 'Setting up the viewshed geoprocessing service.pdf' file.
 
 ## Requirements
-* Notepad or your favorite HTML editor
-* Web browser with access to the Internet
+* ArcMap 10.3 or later
+* ArcGIS server 10.3 or later
 
 ## Resources
-* [ArcGIS for JavaScript API Resource Center](http://help.arcgis.com/en/webapi/javascript/arcgis/index.html)
+* [Publishing a geoprocessing service](http://server.arcgis.com/en/server/latest/publish-services/linux/publishing-a-geoprocessing-service.htm)
 * [ArcGIS Blog](http://blogs.esri.com/esri/arcgis/)
 * [twitter@esri](http://twitter.com/esri)
 
