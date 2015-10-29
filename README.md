@@ -1,5 +1,5 @@
 # elevation-gp-python
-ArcGIS elevation analysis tool that allows you to setting up an in-house viewshed geoprocessing service.
+ArcGIS elevation analysis tool that allows you to set up an in-house viewshed geoprocessing service.
 ## Features
 * ElevationTools.pyt - Contains the viewshed tool that can be published to ArcGIS for server as a geoprocessing service.
 
