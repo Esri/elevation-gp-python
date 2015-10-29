@@ -4,7 +4,7 @@ ArcGIS elevation analysis tool that allows you to setting up an in-house viewshe
 * ElevationTools.pyt - Contains the viewshed tool that can be published to ArcGIS for server as a geoprocessing service.
 
 ## Instructions
-1. Fork and then clone the repo. 
+1. Download the files. 
 2. Unzip the data.zip file to the same folder (under Elevation).
 3. Follow the instructions in the 'Setting up the viewshed geoprocessing service.pdf' file.
 
