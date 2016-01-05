@@ -6,11 +6,11 @@ ArcGIS elevation analysis tool that allows you to set up an in-house viewshed ge
 ## Instructions
 1. Download the files. 
 2. Unzip the data.zip file to the same folder (under Elevation).
-3. Follow the instructions in the 'Setting up the viewshed geoprocessing service.pdf' file.
+3. Follow the instructions in the 'Setting up the viewshed geoprocessing service.pdf' document.
 
 ## Requirements
-* ArcMap 10.3 or later
-* ArcGIS server 10.3 or later
+* ArcGIS for Desktop 10.4 or later. ArcGIS for Desktop needs Standard or Advanced license. A license for the Spatial Analyst extension is required.
+* ArcGIS for Server 10.4 or later. ArcGIS for Server must have a license for the Spatial Analyst extension.
 
 ## Resources
 * [Publishing a geoprocessing service](http://server.arcgis.com/en/server/latest/publish-services/linux/publishing-a-geoprocessing-service.htm)
@@ -24,7 +24,7 @@ Find a bug or want to request a new feature?  Please let us know by submitting a
 Esri welcomes contributions from anyone and everyone. Please see our [guidelines for contributing](https://github.com/esri/contributing).
 
 ## Licensing
-Copyright 2015 Esri
+Copyright 2016 Esri
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
