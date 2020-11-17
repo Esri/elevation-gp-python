@@ -48,7 +48,7 @@ class Viewshed(object):
         #--------------------------------------------
         #Output symbology
         #--------------------------------------------
-        self.outputSymbology = r".\Data\outputsymbology.lyr"
+        self.outputSymbology = r".\outputsymbology.lyr"
         #--------------------------------------------
         #DEM resolutions
         #--------------------------------------------
