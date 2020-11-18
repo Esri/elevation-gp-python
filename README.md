@@ -1,19 +1,21 @@
 # elevation-gp-python
 ArcGIS elevation analysis tool that allows you to set up an in-house viewshed geoprocessing service.
 ## Features
-The ElevationPro folder contains a sample tool that can be published from Pro.
-The Elevation folder contains the same tool that can be published from ArcMap.
-* ElevationTools.pyt - Contains the viewshed tool that can be published to ArcGIS for server as a geoprocessing service.
+ElevationPro - a Viewshed script tool package that can be published from Pro.
+* ElevationTools.pyt - Contains the viewshed tool that can be published from ArcGIS Pro to ArcGIS Enterprise as a geoprocessing service.
+* Setting up the viewshed geoprocessing service (ArcGIS Pro).pdf - Detailed instructions on how to configure and set up the service.
+Elevation - a Viewshed script tool package that can be published from ArcMap.
+* ElevationTools.pyt - Contains the viewshed tool that can be published from ArcMap to ArcGIS for server as a geoprocessing service.
 * Setting up the viewshed geoprocessing service.pdf - Detailed instructions on how to configure and set up the service.
 
 ## Instructions
 1. Download the files. 
-2. Unzip the data.zip file to the same folder (under Elevation).
-3. Follow the instructions in the 'Setting up the viewshed geoprocessing service.pdf' document.
+2. Unzip the data.zip file to the same folder (under Elevation, or ElevationPro).
+3. Follow the instructions in the 'Setting up the viewshed geoprocessing service.pdf' or 'Setting up the viewshed geoprocessing service (ArcGIS Pro).pdf' documents.
 
 ## Requirements
-* ArcGIS for Desktop 10.4 or later. ArcGIS for Desktop needs Standard or Advanced license. A license for the Spatial Analyst extension is required.
-* ArcGIS for Server 10.4 or later. ArcGIS for Server must have a license for the Spatial Analyst extension.
+* ArcGIS Desktop or ArcGIS Pro, with Standard or Advanced license. A license for the Spatial Analyst extension is also required.
+* ArcGIS Enterprise with Raster Analysis privilege.
 
 ## Resources
 * [Publishing a geoprocessing service](http://server.arcgis.com/en/server/latest/publish-services/linux/publishing-a-geoprocessing-service.htm)
