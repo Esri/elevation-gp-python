@@ -48,7 +48,7 @@ class Viewshed(object):
         #--------------------------------------------
         #Output symbology
         #--------------------------------------------
-        self.outputSymbology = r".\outputsymbology.lyr"
+        #self.outputSymbology = r".\outputsymbology.lyr"
         #--------------------------------------------
         #DEM resolutions
         #--------------------------------------------
@@ -453,8 +453,8 @@ class Viewshed(object):
                                  displayName="Output Viewshed",
                                  direction="Output",
                                  parameterType="Derived",
-                                 datatype="DEFeatureClass",
-                                 symbology=self.outputSymbology)
+                                 datatype="DEFeatureClass")
+                                 #symbology=self.outputSymbology
         #param9.value = os.path.join(os.path.dirname(__file__), "Data", "viewshedout.shp")
 
         params = [param0, param1, param2, param3, param4,
