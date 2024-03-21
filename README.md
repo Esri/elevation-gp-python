@@ -10,6 +10,10 @@ Elevation - a Viewshed script tool package that can be published from ArcMap.
 * ElevationTools.pyt - Contains the viewshed tool that can be published from ArcMap to ArcGIS for server as a geoprocessing service.
 * Setting up the viewshed geoprocessing service.pdf - Detailed instructions on how to configure and set up the service.
 
+Profile - a Profile script tool package that can be published from Pro.
+* Profile Tool Pro.pyt - Contains the profile tool that can be published from ArcGIS Pro to ArcGIS Enterprise as a geoprocessing service.
+* How to set up the profile service (ArcGIS Pro).pdf - Detailed instructions on how to configure and set up the service.
+
 ## Instructions
 1. Download the files. 
 2. Unzip the data.zip file to the same folder (under Elevation, or ElevationPro).
